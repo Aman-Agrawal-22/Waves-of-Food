@@ -5,14 +5,14 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.wavesoffood.R
-
-// TODO: Rename parameter arguments, choose names that match
-// the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
-private const val ARG_PARAM1 = "param1"
-private const val ARG_PARAM2 = "param2"
+import com.example.wavesoffood.adapter.BuyAgainAdapter
+import com.example.wavesoffood.databinding.FragmentHistoryBinding
 
 class HistoryFragment : Fragment() {
+    private lateinit var binding: FragmentHistoryBinding
+    private lateinit var buyAgainAdapter: BuyAgainAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -24,7 +24,18 @@ class HistoryFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_history, container, false)
+        binding = FragmentHistoryBinding.inflate(layoutInflater, container, false)
+        setupRecyclerView()
+        return binding.root
+    }
+
+    private fun setupRecyclerView() {
+        val buyAgainFoodName = arrayListOf("Burger", "Sandwich", "momo", "Pizza")
+        val buyAgainFoodPrice = arrayListOf("$5", "$4", "$6", "$3")
+        val buyAgainFoodImage = arrayListOf(R.drawable.cartpic2, R.drawable.cartpic2, R.drawable.cartpic2, R.drawable.cartpic2)
+        buyAgainAdapter = BuyAgainAdapter(buyAgainFoodName, buyAgainFoodPrice, buyAgainFoodImage)
+        binding.BuyAgainRecyclerView.adapter = buyAgainAdapter
+        binding.BuyAgainRecyclerView.layoutManager = LinearLayoutManager(requireContext())
     }
 
     companion object {
