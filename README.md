@@ -1,7 +1,7 @@
 # <p align="center">🍽️ Waves Of Food 🍽️</p>
 
 ## 📖 Introduction  
-Introducing **Waves Of Food**, a modern **Food Ordering App** designed for a seamless and intuitive experience. This app focuses on a well-crafted **frontend design**, ensuring smooth navigation, engaging UI, and effortless interaction. From hassle-free sign-ups to real-time order tracking, every element is built to enhance the food ordering journey.
+# <p align="center">Introducing **Waves Of Food**, a modern **Food Ordering App** designed for a seamless and intuitive experience. This app focuses on a well-crafted **frontend design**, ensuring smooth navigation, engaging UI, and effortless interaction. From hassle-free sign-ups to real-time order tracking, every element is built to enhance the food ordering journey.
 
 ---
 
