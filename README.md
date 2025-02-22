@@ -2,9 +2,7 @@
 
 ## Introduction  
 
-Introducing **Waves Of Food**, a revolutionary **Food Ordering App** designed for a seamless and satisfying experience. This app focuses on providing a smooth and interactive **frontend design**, ensuring effortless navigation and an engaging user experience. From easy sign-up to real-time order tracking, every feature is built to enhance the food ordering journey.  
-
-🚀 **Note:** This app is **frontend-only**, with no backend integration.  
+Introducing **Waves Of Food**, a modern Food Ordering App designed for a seamless and intuitive experience. This app focuses on a well-crafted frontend design, ensuring smooth navigation, engaging UI, and effortless interaction. From hassle-free sign-ups to real-time order tracking, every element is built to enhance the food ordering journey.
 
 ## 🌟 Key Features  
 
@@ -33,21 +31,22 @@ Since this repository is private, you can **download the APK directly**:
 
 Here are some screenshots of the app:  
 
+## 📸 Screenshots  
+
 📌 **Splash Screen**  
-![Splash Screen](https://github.com/user-attachments/assets/8464ea23-f48c-4ba6-814a-299ff18960c7)  
+<img src="https://github.com/user-attachments/assets/8464ea23-f48c-4ba6-814a-299ff18960c7" width="300"/>
 
 📌 **Sign Up Page**  
-![Sign Up Page](https://github.com/user-attachments/assets/eeae513d-c445-48b5-a719-35c428775b9a) 
+<img src="https://github.com/user-attachments/assets/eeae513d-c445-48b5-a719-35c428775b9a" width="300"/>
 
 📌 **Home Page**  
-![Home Page](https://github.com/user-attachments/assets/ac553a3e-1d9e-4388-a522-dc3af443b7a2)  
+<img src="https://github.com/user-attachments/assets/ac553a3e-1d9e-4388-a522-dc3af443b7a2" width="300"/>
 
 
 ## 🎨 Tech Stack  
 
 - **Kotlin** - For Android frontend development  
 - **XML** - For UI design and layout  
-- **Jetpack Components** - For modern Android UI development  
 
 ## 🚀 Installation & Usage  
 
@@ -65,5 +64,4 @@ Here are some screenshots of the app:
 - **Payment Gateway** for secure transactions.  
 - **Push Notifications** for order updates.  
 
-## 🔗 Developed by  
-[Aman Agrawal](https://github.com/Aman-Agrawal-22)  
+## 🔗 Developed by ❤️ [Aman Agrawal](https://github.com/Aman-Agrawal-22)  
