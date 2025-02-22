@@ -37,10 +37,11 @@ Here are some screenshots of the app:
 ![Splash Screen](https://github.com/user-attachments/assets/8464ea23-f48c-4ba6-814a-299ff18960c7)  
 
 📌 **Sign Up Page**  
-![Sign Up Page](https://github.com/user-attachments/assets/ac553a3e-1d9e-4388-a522-dc3af443b7a2)  
+![Sign Up Page](https://github.com/user-attachments/assets/eeae513d-c445-48b5-a719-35c428775b9a) 
 
 📌 **Home Page**  
-![Home Page](https://github.com/user-attachments/assets/eeae513d-c445-48b5-a719-35c428775b9a)  
+![Home Page](https://github.com/user-attachments/assets/ac553a3e-1d9e-4388-a522-dc3af443b7a2)  
+
 
 ## 🎨 Tech Stack  
 
