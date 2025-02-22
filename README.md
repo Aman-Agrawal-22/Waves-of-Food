@@ -1,4 +1,4 @@
-# Waves Of Food - Frontend Design  
+# Waves Of Food
 
 ## Introduction  
 
