@@ -24,8 +24,8 @@ Introducing **Waves Of Food**, a modern Food Ordering App designed for a seamles
 
 ## 📥 Download APK  
 
-Since this repository is private, you can **download the APK directly**:  
-👉 [Download APK](https://github.com/Aman-Agrawal-22/Waves-of-Food/releases)  
+Download the latest version of **Waves Of Food** here:  
+👉 [Download APK](https://github.com/Aman-Agrawal-22/Waves-of-Food/releases/download/v1.0.0/WavesOfFood.apk)  
 
 ## 📸 Screenshots  
 
@@ -50,13 +50,19 @@ Here are some screenshots of the app:
 
 ## 🚀 Installation & Usage  
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Aman-Agrawal-22/Waves-of-Food.git
-   ```
-2. Open the project in Android Studio.
+1. **Access the Code:** Since this is a private repository, only authorized users can access the source code. Ensure you have the necessary permissions.  
 
-3.Run the app on an emulator or physical device.
+2. **Open in Android Studio:**  
+   - Download the project files (if you have access).  
+   - Open the project in **Android Studio**.  
+
+3. **Run the App:**  
+   - Connect an **emulator** or **physical device**.  
+   - Click **Run ▶️** to build and launch the app.  
+
+4. **Alternatively, Download APK:**  
+   If you don’t have access to the code, you can still use the app by downloading the APK:  
+   👉 [Download APK](https://github.com/Aman-Agrawal-22/Waves-of-Food/releases/latest/download/WavesOfFood.apk)  
 
 ## 📌 Future Enhancements  
 
