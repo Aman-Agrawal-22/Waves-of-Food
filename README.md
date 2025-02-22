@@ -32,10 +32,11 @@ Download the latest version of **Waves Of Food** here:
 ---
 
 ## 📸 Screenshots  
+Take a look at some key screens from **Waves Of Food** showcasing its sleek and user-friendly design:  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8464ea23-f48c-4ba6-814a-299ff18960c7" width="250" alt="Splash Screen"/>
   <img src="https://github.com/user-attachments/assets/eeae513d-c445-48b5-a719-35c428775b9a" width="250" alt="Sign Up Page"/>
-  <img src="https://github.com/user-attachments/assets/ac553a3e-1d9e-4388-a522-dc3af443b7a2" width="250" alt="Home Page"/>
+  <img src="https://github.com/user-attachments/assets/80d3839d-7248-4c57-ba57-db96ca3186ed" width="250" alt="Home Page"/>
 </p>
 
 ---
