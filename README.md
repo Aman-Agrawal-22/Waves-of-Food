@@ -36,7 +36,7 @@ Take a look at some key screens from **Waves Of Food** showcasing its sleek and 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8464ea23-f48c-4ba6-814a-299ff18960c7" width="250" alt="Splash Screen"/>
   <img src="https://github.com/user-attachments/assets/eeae513d-c445-48b5-a719-35c428775b9a" width="250" alt="Sign Up Page"/>
-  <img src="https://github.com/user-attachments/assets/74b66356-c762-462a-987b-54e89a7b169" width="250" alt="Home Page"/>
+  <img src="https://github.com/user-attachments/assets/496a464a-49dd-48b6-8557-c28f1c40f922" width="250" alt="Home Page"/>
 </p>
 
 ---
