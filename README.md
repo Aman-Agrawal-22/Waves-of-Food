@@ -54,4 +54,5 @@ Take a look at some key screens from **Waves Of Food** showcasing its sleek and 
 
 ---
 
-## 🔗 Developed by ❤️ [Aman Agrawal](https://github.com/Aman-Agrawal-22)  
+## 🔗 Made with❤️ 
+Developed by [Aman Agrawal](https://github.com/Aman-Agrawal-22)  
